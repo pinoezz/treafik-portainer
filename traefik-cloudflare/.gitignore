@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# SSL Certificates
+data/acme.json
+
+# Logs
+logs/
+*.log
+
+# Backups
+*.backup
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

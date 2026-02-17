@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Portainer data
+data/
+
+# Backups
+*.backup
+*.bak
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
